@@ -1,0 +1,20 @@
+
+
+.card{
+    width: 50%;
+    margin-top: 100px;
+    border-radius: 10px;
+    background-color: rgb(232, 82, 82);
+}
+.yes{display: flex;
+justify-content: center;
+}
+.bt{padding: 5px 5px;
+border-radius: 8px;}
+
+.main{
+    background-color: blue;
+    min-height: 600px;
+    padding-bottom: 20px;
+}
+

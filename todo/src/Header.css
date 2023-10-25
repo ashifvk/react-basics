@@ -1,0 +1,15 @@
+.center{
+    margin: auto;
+    max-width: 500px;
+}
+.dropdown{
+    padding: 10px 10px;
+    width: 100px;
+    border-radius: 10px;
+    
+}
+
+.firstrow{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,13 @@
+.delete{
+    display: flex;
+    justify-content: space-between;
+}
+.bi{
+    color: black;
+}
+.icon a{
+    padding: 7px;
+    background: rgb(213, 217, 219);
+    border-radius: 8px;
+}
+
